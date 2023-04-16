@@ -18,6 +18,7 @@ As we are not interested in reinventing the wheel, we recommend you follow the f
 - [Software Architect Roadmap](https://roadmap.sh/software-architect)
 
 **Resources**
+
 The following resources include books, videos, articles, etc. collected by [DjangoEx](https://github.com/DjangoEx) community is highly recommended. Feel free to contribute and add awesome resources.
 
 - [Prerequisites](https://github.com/DjangoEx/awesome-python-resources#prerequisites)
