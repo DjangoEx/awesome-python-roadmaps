@@ -15,7 +15,7 @@ As we are not interested in reinventing the wheel, we recommend you follow the f
     - [Data Sciecnce Roadmap](https://i.am.ai/roadmap/#data-science-roadmap)
     - [Machine Learning Roadmap](https://i.am.ai/roadmap/#machine-learning-roadmap)
     - [Deep Learning Roadmap](https://i.am.ai/roadmap/#deep-learning-roadmap)
-    - [Data Engineer Roadmap](https://i.am.ai/roadmap/#data-engineer-roadmap)
+    - [Data Engineer Roadmap](https://github.com/datastacktv/data-engineer-roadmap)
     - [Big Data Engineer Roadmap](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
     - [System Design Roadmap](https://roadmap.sh/system-design)
     - [Software Architect Roadmap](https://roadmap.sh/software-architect)
